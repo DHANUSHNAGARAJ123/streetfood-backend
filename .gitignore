@@ -3,3 +3,4 @@ uploads/
 *.class
 .env
 src/main/resources/application.properties
+.vscode/
